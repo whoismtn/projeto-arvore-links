@@ -19,9 +19,9 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-    <p align="center">Dark</p>
-  <img alt="projeto DevLinks" src="./assets/preview-dark.PNG" width="50%">
-   <p align="center">Light</p>
+    <h2 align="center">Dark</h2>
+  <img align="center" alt="projeto DevLinks" src="./assets/preview-dark.PNG" width="50%">
+   <h2 align="center">Light</h2>
   <img alt="projeto DevLinks" src="./assets/preview-light.PNG" width="50%">
 </p>
 
