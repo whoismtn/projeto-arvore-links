@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](projeto-discover-delta.vercel.app/)
+- [Acesse o projeto finalizado, online](https://projeto-discover-delta.vercel.app/)
 
 
 
